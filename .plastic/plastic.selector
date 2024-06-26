@@ -1,0 +1,4 @@
+repository "Paradigm Shift-1@ArchAngelGxC@cloud"
+  path "/"
+    br "/main"
+    co "/main"
